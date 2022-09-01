@@ -1,5 +1,5 @@
 # Hi there 👋 my name is Sergio Daniel Arriaga Juarez
-###I'm Web developer full stack
+##I'm Web developer full stack
 - 🌱 I’m currently learning REACT
 
 ###Skills:

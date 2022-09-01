@@ -2,7 +2,7 @@
 ###I'm Web developer full stack
 - 🌱 I’m currently learning REACT
 
-Skills:
+###Skills:
 html
 css
 javascript

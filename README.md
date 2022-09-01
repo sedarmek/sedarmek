@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning REACT
 
 ### Skills:
-html
+[![Html](https://img.shields.io/badge/Html-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
 <br>
 [![Css](https://img.shields.io/badge/Css-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
 <br>

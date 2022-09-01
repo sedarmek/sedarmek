@@ -9,7 +9,7 @@
 [![git-y-github](https://img.shields.io/badge/git-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Jquery](https://img.shields.io/badge/Jquery-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
 <br>
 Contactme: 

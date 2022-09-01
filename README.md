@@ -11,4 +11,5 @@ mysql
 jquery
 nodejs
 react
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 Contactme: linkedin https://www.linkedin.com/in/sergio-daniel-arriaga-juarez-7712711b0

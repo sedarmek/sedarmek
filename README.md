@@ -9,7 +9,7 @@ html
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=101010)]()
 <br>
-[![git y github](https://img.shields.io/badge/git-F7DF1E?style=flat&logo=css&logoColor=white&labelColor=101010)]()
+[![git-y-github](https://img.shields.io/badge/git-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
 <br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=101010)]()
 <br>

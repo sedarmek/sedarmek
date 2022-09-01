@@ -4,7 +4,6 @@
 
 ### Skills:
 [![Html](https://img.shields.io/badge/Html-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
-<br>
 [![Css](https://img.shields.io/badge/Css-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=101010)]()

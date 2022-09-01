@@ -11,5 +11,5 @@ git y github
 jquery
 nodejs
 react
-Contactme: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-daniel-arriaga-juarez-7712711b0/)
+Contactme: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Daniel_Arriga_Juarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-daniel-arriaga-juarez-7712711b0/)
 My email: [![Email](https://img.shields.io/badge/sdajunadm@outlook.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sdajunadm@outlook.com)

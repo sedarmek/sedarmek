@@ -5,7 +5,7 @@
 ### Skills:
 html
 css
-javascript
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 git y github
 mysql
 jquery

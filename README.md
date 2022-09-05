@@ -12,7 +12,7 @@
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat&logo=node.js&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()
 <br>
-Contactme: 
+Contactame: 
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Daniel_Arriga_Juarez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-daniel-arriaga-juarez-7712711b0/)
 <br>

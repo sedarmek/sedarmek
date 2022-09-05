@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Sergio Daniel Arriaga Juarez
+# Hi there 👋 my name is Sergio
 ### I'm Web developer full stack
 - 🌱 I’m currently learning REACT
 

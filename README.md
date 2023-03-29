@@ -1,6 +1,12 @@
 # Hi there 👋 my name is Sergio
 ### I'm Web developer full stack
 - 🌱 I’m currently learning REACT
+Como desarrollador web, tengo un gran interés en seguir aprendiendo y mejorando mis habilidades en esta industria en constante evolución. Soy un apasionado de la tecnología y estoy emocionado de contribuir al desarrollo de soluciones innovadoras y eficientes.
+
+Tengo experiencia en el desarrollo de aplicaciones web utilizando lenguajes de programación como JavaScript, y php. También tengo conocimientos en el uso de frameworks como React y Next, y herramientas como Git y npm.
+
+Mi objetivo es seguir creciendo profesionalmente en este campo y trabajar en proyectos desafiantes que me permitan aprender nuevas habilidades y técnicas. Estoy emocionado de formar parte de un equipo y aportar mi entusiasmo y conocimientos para crear soluciones efectivas y de alta calidad.
+
 
 ### Skills:
 [![Html](https://img.shields.io/badge/Html-101010?style=flat&logo=css&logoColor=white&labelColor=101010)]()

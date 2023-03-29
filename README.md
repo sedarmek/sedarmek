@@ -1,7 +1,6 @@
 # Hi there 👋 my name is Sergio
 ### I'm Web developer full stack
-- 🌱 I’m currently learning REACT
-Como desarrollador web, tengo un gran interés en seguir aprendiendo y mejorando mis habilidades en esta industria en constante evolución. Soy un apasionado de la tecnología y estoy emocionado de contribuir al desarrollo de soluciones innovadoras y eficientes.
+- Como desarrollador web, tengo un gran interés en seguir aprendiendo y mejorando mis habilidades en esta industria en constante evolución. Soy un apasionado de la tecnología y estoy emocionado de contribuir al desarrollo de soluciones innovadoras y eficientes.
 
 Tengo experiencia en el desarrollo de aplicaciones web utilizando lenguajes de programación como JavaScript, y php. También tengo conocimientos en el uso de frameworks como React y Next, y herramientas como Git y npm.
 
